@@ -7,7 +7,7 @@ page of each organization under the NumFOCUS umbrella at this page.
 - [aeon](https://github.com/aeon-toolkit/aeon-admin/blob/main/gsoc/gsoc-2024-projects.md)
 - [AiiDA](https://github.com/aiidateam/aiida-core/wiki/GSoC-2024-Projects)
 - [ArviZ](https://github.com/arviz-devs/arviz/wiki/GSoC-2024-projects)
-- [biocommons](https://github.com/orgs/biocommons/projects/8/views/1)
+- [biocommons](https://biocommons.org/en/latest/gsoc2024/)
 - [CB-Geo MPM](https://github.com/cb-geo/mpm/issues/744)
 - [CuPy](https://github.com/cupy/cupy/wiki/GSoC-2024-Project-Ideas)
 - [Data Retriever](https://github.com/weecology/retriever/wiki/GSoC-2024-Project-Ideas)
